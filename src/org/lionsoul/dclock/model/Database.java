@@ -215,7 +215,7 @@ public class Database implements Serializable {
 /*	public static void main( String[] args  ) {
 		try {
 			System.out.println(Database.formatDatabaseFile(System.
-					getProperty("user.dir")+"/"+IConstants.__DATA_FILE));
+					getProperty("user.dir")+"/"+org.lionsoul.dclock.util.IConstants.__DATA_FILE));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
