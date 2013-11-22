@@ -23,12 +23,12 @@ public interface IConstants {
 	 * item add window 
 	 */
 	public static final String ADD_W_TITLE = "新建事务";
-	public static final Font ADD_WTITLE_FONT = new Font("Arial", Font.BOLD, 12);
+	public static final Font ADD_WTITLE_FONT = new Font("宋体", Font.BOLD, 12);
 	public static final Dimension ADD_W_SIZE = new Dimension(400, 270);
 	public static final Dimension ADD_WTOP_SIZE = new Dimension(400, 35);
 	public static final Dimension ADD_WBOTTOM_SIZE = new Dimension(400, 35);
 	public static final Color ADD_LABEL_COLOR = new Color(44, 105, 161);
-	public static final Font ADD_LABEL_FONT = new Font("Arial", Font.PLAIN, 12);
+	public static final Font ADD_LABEL_FONT = new Font("宋体", Font.PLAIN, 12);
 	public static final Border ADD_TEXT_BORDER = new LineBorder(Color.LIGHT_GRAY, 1);
 	
 	/**
